@@ -1,0 +1,162 @@
+{
+  "appName": "Xin Chào",
+  "common": {
+    "send": "Gửi",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "loading": "Đang tải...",
+    "search": "Tìm kiếm",
+    "loadingPage": "Đang tải trang...",
+    "back": "Quay lại",
+    "yesterday": "Hôm qua"
+  },
+  "auth": {
+    "fields": {
+      "firstname": "Tên",
+      "lastname": "Họ",
+      "username": "Tên đăng nhập",
+      "email": "Email",
+      "password": "Mật khẩu"
+    },
+    "signin": {
+      "title": "Chào mừng quay lại",
+      "subtitle": "Đăng nhập vào tài khoản Xin Chào của bạn",
+      "submit": "Đăng nhập",
+      "noAccount": "Chưa có tài khoản?",
+      "signupLink": "Đăng ký"
+    },
+    "signup": {
+      "title": "Tạo tài khoản Xin Chào",
+      "subtitle": "Chào mừng bạn! Hãy đăng ký để bắt đầu!",
+      "submit": "Tạo tài khoản",
+      "haveAccount": "Đã có tài khoản?",
+      "signinLink": "Đăng nhập"
+    },
+    "logout": "Đăng xuất",
+    "terms": {
+      "prefix": "Bằng cách tiếp tục, bạn đồng ý với ",
+      "tos": "Điều khoản dịch vụ",
+      "and": " và ",
+      "privacy": "Chính sách bảo mật",
+      "suffix": " của chúng tôi."
+    },
+    "errors": {
+      "firstnameRequired": "Tên bắt buộc phải có",
+      "lastnameRequired": "Họ bắt buộc phải có",
+      "usernameMin": "Tên đăng nhập phải có ít nhất 3 ký tự",
+      "passwordMin": "Mật khẩu phải có ít nhất 6 ký tự",
+      "emailInvalid": "Email không hợp lệ"
+    },
+    "toast": {
+      "signupSuccess": "Đăng ký thành công! Bạn sẽ được chuyển sang trang đăng nhập.",
+      "signupFailed": "Đăng ký không thành công",
+      "welcomeBack": "Chào mừng bạn quay lại với Xin Chào 🎉",
+      "signinFailed": "Đăng nhập không thành công!",
+      "logoutSuccess": "Đăng xuất thành công!",
+      "logoutError": "Lỗi xảy ra khi đăng xuất. Hãy thử lại!",
+      "fetchUserError": "Lỗi xảy ra khi lấy dữ liệu người dùng. Hãy thử lại!",
+      "sessionExpired": "Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại!"
+    }
+  },
+  "chat": {
+    "welcomeTitle": "Chào mừng bạn đến với Xin Chào!",
+    "welcomeSubtitle": "Chọn một cuộc hội thoại để bắt đầu chat!",
+    "noMessages": "Chưa có tin nhắn nào trong cuộc trò chuyện này.",
+    "messagePlaceholder": "Soạn tin nhắn...",
+    "sendMessageError": "Lỗi xảy ra khi gửi tin nhắn. Bạn hãy thử lại!",
+    "newMessage": "Gửi tin nhắn mới",
+    "addFriend": "Kết bạn",
+    "addFriendTitle": "Kết Bạn",
+    "members": "thành viên",
+    "group": {
+      "newGroupTitle": "Tạo nhóm chat mới",
+      "groupName": "Tên nhóm",
+      "groupNamePlaceholder": "Gõ tên nhóm vào đây...",
+      "inviteMembers": "Mời thành viên",
+      "searchByDisplayName": "Tìm theo tên hiển thị...",
+      "creating": "Đang tạo...",
+      "createGroup": "Tạo nhóm",
+      "minMembers": "Bạn phải mời ít nhất 1 thành viên vào nhóm"
+    }
+  },
+  "settings": {
+    "language": "Ngôn ngữ",
+    "languageEnglish": "Tiếng Anh",
+    "languageVietnamese": "Tiếng Việt",
+    "preferences": "Tuỳ chỉnh ứng dụng",
+    "preferencesDesc": "Cá nhân hoá trải nghiệm trò chuyện của bạn",
+    "darkMode": "Chế độ tối",
+    "darkModeDesc": "Chuyển đổi giữa giao diện sáng và tối",
+    "showOnline": "Hiển thị trạng thái online",
+    "showOnlineDesc": "Cho phép người khác thấy khi bạn đang online",
+    "privacyTitle": "Quyền riêng tư & Bảo mật",
+    "privacyDesc": "Quản lý cài đặt quyền riêng tư và bảo mật của bạn",
+    "changePassword": "Đổi mật khẩu",
+    "notificationSettings": "Cài đặt thông báo",
+    "blockReport": "Chặn & Báo cáo",
+    "dangerZone": "Khu vực nguy hiểm",
+    "deleteAccount": "Xoá tài khoản"
+  },
+  "friends": {
+    "searchByUsername": "Tìm bằng username",
+    "usernamePlaceholder": "Gõ tên username vào đây...",
+    "usernameRequired": "Username không được bỏ trống",
+    "notFound": "Không tìm thấy",
+    "searching": "Đang tìm ...",
+    "search": "Tìm",
+    "foundPrefix": "Tìm thấy ",
+    "foundSuffix": " rồi nè",
+    "introLabel": "Giới thiệu",
+    "introPlaceholder": "Chào bạn ~ Có thể kết bạn được không?...",
+    "sending": "Đang gửi...",
+    "startNewConversation": "Bắt đầu hội thoại mới",
+    "friendList": "Danh sách bạn bè",
+    "noFriends": "Chưa có bạn bè. Thêm bạn vô để tám!",
+    "friendRequests": "Lời mời kết bạn",
+    "received": "Đã nhận",
+    "sent": "Đã gửi",
+    "noReceived": "Bạn chưa có lời mời kết bạn nào.",
+    "acceptedToast": "Đã đồng ý kết bạn thành công",
+    "declinedToast": "Đã từ chối kết bạn",
+    "accept": "Chấp nhận",
+    "decline": "Từ chối",
+    "noSent": "Bạn chưa gửi lời mời kết bạn nào.",
+    "awaitingResponse": "Đang chờ trả lời...",
+    "addFriendError": "Lỗi xảy ra khi gửi kết bạn. Hãy thử lại",
+    "requestSentToast": "Gửi lời mời kết bạn thành công"
+  },
+  "profile": {
+    "displayName": "Tên hiển thị",
+    "username": "Tên người dùng",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "personalInfo": "Thông tin cá nhân",
+    "personalInfoDesc": "Cập nhật chi tiết cá nhân và thông tin hồ sơ của bạn",
+    "bio": "Giới thiệu",
+    "saveChanges": "Lưu thay đổi",
+    "tabAccount": "Tài Khoản",
+    "tabPreferences": "Cấu Hình",
+    "tabSecurity": "Bảo Mật",
+    "avatarUploadError": "Upload avatar không thành công!"
+  },
+  "sidebar": {
+    "groupChats": "nhóm chat",
+    "friends": "bạn bè",
+    "notifications": "Thông Báo"
+  },
+  "ai": {
+    "translate": "Dịch",
+    "showOriginal": "Xem bản gốc",
+    "translating": "Đang dịch...",
+    "translateError": "Dịch không thành công",
+    "voiceInput": "Nhập bằng giọng nói",
+    "listening": "Đang nghe...",
+    "voiceUnsupported": "Trình duyệt này không hỗ trợ nhập bằng giọng nói",
+    "ocrTranslate": "Dịch chữ trong ảnh",
+    "ocrScanning": "Đang quét...",
+    "ocrNoText": "Không tìm thấy chữ trong ảnh",
+    "ocrHide": "Ẩn bản dịch",
+    "ocrError": "Không thể đọc ảnh"
+  }
+}

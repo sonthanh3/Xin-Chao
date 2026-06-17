@@ -1,0 +1,162 @@
+{
+  "appName": "Xin Chào",
+  "common": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "search": "Search",
+    "loadingPage": "Loading page...",
+    "back": "Back",
+    "yesterday": "Yesterday"
+  },
+  "auth": {
+    "fields": {
+      "firstname": "First name",
+      "lastname": "Last name",
+      "username": "Username",
+      "email": "Email",
+      "password": "Password"
+    },
+    "signin": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to your Xin Chào account",
+      "submit": "Sign in",
+      "noAccount": "Do not have an account?",
+      "signupLink": "Sign up"
+    },
+    "signup": {
+      "title": "Create your Xin Chào account",
+      "subtitle": "Welcome! Sign up to get started!",
+      "submit": "Create account",
+      "haveAccount": "Already have an account?",
+      "signinLink": "Sign in"
+    },
+    "logout": "Log out",
+    "terms": {
+      "prefix": "By continuing, you agree to our ",
+      "tos": "Terms of Service",
+      "and": " and ",
+      "privacy": "Privacy Policy",
+      "suffix": "."
+    },
+    "errors": {
+      "firstnameRequired": "First name is required",
+      "lastnameRequired": "Last name is required",
+      "usernameMin": "Username must be at least 3 characters",
+      "passwordMin": "Password must be at least 6 characters",
+      "emailInvalid": "Invalid email"
+    },
+    "toast": {
+      "signupSuccess": "Sign up successful! You will be redirected to the sign in page.",
+      "signupFailed": "Sign up failed",
+      "welcomeBack": "Welcome back to Xin Chào 🎉",
+      "signinFailed": "Sign in failed!",
+      "logoutSuccess": "Logged out successfully!",
+      "logoutError": "An error occurred while logging out. Please try again!",
+      "fetchUserError": "An error occurred while fetching user data. Please try again!",
+      "sessionExpired": "Your session has expired. Please sign in again!"
+    }
+  },
+  "chat": {
+    "welcomeTitle": "Welcome to Xin Chào!",
+    "welcomeSubtitle": "Select a conversation to start chatting!",
+    "noMessages": "No messages in this conversation yet.",
+    "messagePlaceholder": "Type a message...",
+    "sendMessageError": "An error occurred while sending the message. Please try again!",
+    "newMessage": "New message",
+    "addFriend": "Add friend",
+    "addFriendTitle": "Add Friend",
+    "members": "members",
+    "group": {
+      "newGroupTitle": "Create new group chat",
+      "groupName": "Group name",
+      "groupNamePlaceholder": "Type the group name here...",
+      "inviteMembers": "Invite members",
+      "searchByDisplayName": "Search by display name...",
+      "creating": "Creating...",
+      "createGroup": "Create group",
+      "minMembers": "You must invite at least 1 member to the group"
+    }
+  },
+  "settings": {
+    "language": "Language",
+    "languageEnglish": "English",
+    "languageVietnamese": "Vietnamese",
+    "preferences": "Preferences",
+    "preferencesDesc": "Personalize your chat experience",
+    "darkMode": "Dark mode",
+    "darkModeDesc": "Switch between light and dark themes",
+    "showOnline": "Show online status",
+    "showOnlineDesc": "Let others see when you are online",
+    "privacyTitle": "Privacy & Security",
+    "privacyDesc": "Manage your privacy and security settings",
+    "changePassword": "Change password",
+    "notificationSettings": "Notification settings",
+    "blockReport": "Block & Report",
+    "dangerZone": "Danger zone",
+    "deleteAccount": "Delete account"
+  },
+  "friends": {
+    "searchByUsername": "Search by username",
+    "usernamePlaceholder": "Type the username here...",
+    "usernameRequired": "Username cannot be empty",
+    "notFound": "Not found",
+    "searching": "Searching ...",
+    "search": "Search",
+    "foundPrefix": "Found ",
+    "foundSuffix": "!",
+    "introLabel": "Introduction",
+    "introPlaceholder": "Hi there ~ Can we be friends?...",
+    "sending": "Sending...",
+    "startNewConversation": "Start a new conversation",
+    "friendList": "Friend list",
+    "noFriends": "No friends yet. Add some to start chatting!",
+    "friendRequests": "Friend requests",
+    "received": "Received",
+    "sent": "Sent",
+    "noReceived": "You have no friend requests.",
+    "acceptedToast": "Friend request accepted",
+    "declinedToast": "Friend request declined",
+    "accept": "Accept",
+    "decline": "Decline",
+    "noSent": "You have not sent any friend requests.",
+    "awaitingResponse": "Waiting for a response...",
+    "addFriendError": "An error occurred while sending the friend request. Please try again",
+    "requestSentToast": "Friend request sent successfully"
+  },
+  "profile": {
+    "displayName": "Display name",
+    "username": "Username",
+    "email": "Email",
+    "phone": "Phone number",
+    "personalInfo": "Personal information",
+    "personalInfoDesc": "Update your personal details and profile information",
+    "bio": "Bio",
+    "saveChanges": "Save changes",
+    "tabAccount": "Account",
+    "tabPreferences": "Preferences",
+    "tabSecurity": "Security",
+    "avatarUploadError": "Avatar upload failed!"
+  },
+  "sidebar": {
+    "groupChats": "Group chats",
+    "friends": "Friends",
+    "notifications": "Notifications"
+  },
+  "ai": {
+    "translate": "Translate",
+    "showOriginal": "Show original",
+    "translating": "Translating...",
+    "translateError": "Translation failed",
+    "voiceInput": "Voice input",
+    "listening": "Listening...",
+    "voiceUnsupported": "Voice input is not supported in this browser",
+    "ocrTranslate": "Translate text in image",
+    "ocrScanning": "Scanning...",
+    "ocrNoText": "No text found in the image",
+    "ocrHide": "Hide translation",
+    "ocrError": "Could not read the image"
+  }
+}
