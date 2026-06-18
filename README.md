@@ -2,7 +2,6 @@
 
 A real time chat application with built in Vietnamese and English translation. Xin Chào combines a full real time chat platform (one to one and group messaging, friends, presence, image uploads) with live message translation, photo text translation, and voice input.
 
-The backend keeps the original Node, Express, MongoDB, and Socket.IO structure. The frontend keeps the original React, TypeScript, Vite, Zustand, and shadcn structure.
 
 ## Features
 
