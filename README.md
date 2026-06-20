@@ -5,9 +5,9 @@ A real time chat application with built in Vietnamese and English translation. X
 p.s: Currently improving photo text translation, and voice input. 
 
 ## Testing Purposes
-Please use username and password below to check out feature
-id: demo
-pw: demo123456
+Please use username and password below to check out feature.
+- id: demo
+- pw: demo123456
 
 ## Features
 
