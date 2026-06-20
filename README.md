@@ -2,6 +2,12 @@
 
 A real time chat application with built in Vietnamese and English translation. Xin Chào combines a full real time chat platform (one to one and group messaging, friends, presence, image uploads) with live message translation, photo text translation, and voice input.
 
+p.s: Currently improving photo text translation, and voice input. 
+
+## Testing Purposes
+Please use username and password below to check out feature
+id: demo
+pw: demo123456
 
 ## Features
 
